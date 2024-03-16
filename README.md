@@ -37,6 +37,7 @@ Works:
 - [X] USB OTG
 - [X] Touch
 - [X] Vibrator
+- [X] Flashlight
 
 # Building
 ```bash
